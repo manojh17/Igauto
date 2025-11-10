@@ -1,0 +1,7 @@
+telethon
+instagrapi
+flask
+pandas
+python-dotenv
+requests
+aiofiles
